@@ -6,3 +6,8 @@ Needs two files(certificate and key) to create the SSL context required for http
 
 Run using:
 python3 main.py
+
+Hardware requirements:
+- Google Coral Board
+- Google coral camera
+
